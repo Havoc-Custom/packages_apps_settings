@@ -194,6 +194,9 @@
     <!-- Havoc Maintainer -->
     <string name="HavocOS_maintainer">Device Maintainer</string>
     
+     <!-- Battery temperature -->
+    <string name="battery_temp">Temperature</string>
+    
     <!-- reTicker -->
     <string name="reticker_title">reTicker</string>
     <string name="reticker_summary">Replace your notifications with a redesigned version of tickers. \nSlim and less invasive than a standard notification</string>
