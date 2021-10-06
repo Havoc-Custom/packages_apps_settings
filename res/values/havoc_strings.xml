@@ -195,4 +195,7 @@
     <string name="volume_separate_notification_title">Separated Ring and Notification</string>
     <string name="volume_separate_notification_summary">Allow controlling each stream individually</string>
 
+    <!-- Havoc Maintainer -->
+    <string name="HavocOS_maintainer">Device Maintainer</string>
+
 </resources>
