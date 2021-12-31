@@ -37,6 +37,12 @@
         android:persistent="false"
         android:fragment="com.android.settings.display.HiddenAppSettingsFragment" />
 
+    <com.havoc.support.preferences.SystemSettingSwitchPreference
+        android:key="arcane_idle_manager"
+        android:title="@string/idle_manager_title"
+        android:summary="@string/idle_manager_summary"
+        android:defaultValue="false" />
+
     <com.havoc.support.preferences.SecureSettingSwitchPreference
         android:key="show_clipboard_overlay"
         android:title="@string/show_clipboard_overlay_title"

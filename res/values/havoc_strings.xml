@@ -341,4 +341,8 @@
     <string name="model_summary">Model, phone number, IMEI, etc</string>
     <string name="model_name">Device status</string>
     <string name="legal_summary">Licenses and legal</string>
+
+    <!-- Idle Manager -->
+    <string name="idle_manager_title">Kill background processes</string>
+    <string name="idle_manager_summary">Stop all non-essential background processes when the device is idle</string>
 </resources>
