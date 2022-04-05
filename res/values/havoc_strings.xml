@@ -320,4 +320,8 @@
     <string name="volume_persen_style_title">Percentage Location</string>
     <string name="volume_persen_style_top">Top</string>
     <string name="volume_persen_style_bottom">Bottom</string>
+
+    <!-- Hidden apps -->
+    <string name="hidden_apps_title">Hidden apps</string>
+    <string name="hidden_apps_summary">Applications that should be hidden from launcher. Requires a launcher restart for changes to take effect</string>
 </resources>
