@@ -24,6 +24,12 @@
         android:selectable="false"
         settings:searchable="false"/>
         
+    <Preference
+        android:key="monet_settings"
+        android:title="@string/monet_settings_title"
+        android:summary="@string/monet_settings_sammary"
+        android:fragment="com.android.settings.custom.fragments.MonetSettings" />
+        
     <!-- Ignore secure window -->
     <com.havoc.support.preferences.SecureSettingSwitchPreference
         android:key="window_ignore_secure"
