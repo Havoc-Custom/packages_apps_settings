@@ -221,4 +221,9 @@
         <!-- IME button space -->
     <string name="navigation_bar_ime_space_title">Hide IME button space</string>
     <string name="navigation_bar_ime_space_summary">Hide IME button space below keyboard</string>
+    
+        <!-- Havoc lab -->
+    <string name="havoc_lab_title">Extended lab</string>
+    <string name="havoc_lab_footer">Havoc Extended Exclusives</string>
+    <string name="havoc_lab_summary">Extra features</string>
 </resources>
