@@ -101,6 +101,7 @@ android_library {
         "kotlinx_coroutines_android",
         "kotlinx_coroutines",
         "androidx.dynamicanimation_dynamicanimation",
+        "SettingsGoogle-lib",
     ],
 
     libs: [
