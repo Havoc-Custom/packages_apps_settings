@@ -30,6 +30,13 @@
         android:summary="@string/monet_settings_sammary"
         android:fragment="com.android.settings.custom.fragments.MonetSettings" />
 
+    <Preference
+        android:key="hidden_apps"
+        android:title="@string/hidden_apps_title"
+        android:summary="@string/hidden_apps_summary"
+        android:persistent="false"
+        android:fragment="com.android.settings.display.HiddenAppSettingsFragment" />
+
     <com.havoc.support.preferences.SecureSettingSwitchPreference
         android:key="show_clipboard_overlay"
         android:title="@string/show_clipboard_overlay_title"
