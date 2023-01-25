@@ -233,4 +233,10 @@
     <!-- Wi-Fi Standard icon -->
     <string name="show_wifi_standard_icon_title">Show Wi-Fi type icon</string>
     <string name="show_wifi_standard_icon_summary">Show Wi-Fi type in Wi-Fi signal indicator</string>
+    
+     <!-- Lockscreen Clock -->
+    <string name="clock_use_single_line_title">Lockscreen clock Format</string>
+    <string name="single_line">Single-line</string>
+    <string name="double_line">Double-line</string>
+    <string name="default_string">Default</string>
 </resources>
