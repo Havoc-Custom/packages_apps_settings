@@ -17,11 +17,11 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Havoc-OS -->
-    <string name="havoc_title" translatable="false">Havoc-OS</string>
+    <string name="havoc_title" translatable="false">Havoc-Extended</string>
     <string name="about_device_name">Device</string>
 
     <!-- About phone screen, Havoc-OS version -->
-    <string name="havoc_version">Havoc-OS version</string>
+    <string name="havoc_version">Havoc-Extended version</string>
     <string name="havoc_version_default">Unknown</string>
     <string name="havoc_version_summary">Version %1$s (%2$s)</string>
 
@@ -228,7 +228,7 @@
         <!-- Havoc lab -->
     <string name="havoc_lab_title">Extended lab</string>
     <string name="havoc_lab_footer">Havoc Extended Exclusives</string>
-    <string name="havoc_lab_summary">Extra features</string>
+    <string name="havoc_lab_summary">Some Extra features</string>
     
     <!-- Wi-Fi Standard icon -->
     <string name="show_wifi_standard_icon_title">Show Wi-Fi type icon</string>
