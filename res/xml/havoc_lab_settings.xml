@@ -37,6 +37,12 @@
         android:summary="@string/show_wifi_standard_icon_summary"
         android:defaultValue="false" />
         
+    <com.havoc.support.preferences.SystemSettingSwitchPreference
+        android:key="data_disabled_icon"
+        android:title="@string/data_disabled_icon_title"
+        android:summary="@string/data_disabled_icon_summary"
+        android:defaultValue="true"/>
+        
     <com.havoc.support.preferences.SystemSettingListPreference
         android:key="clock_use_custom_format"
         android:title="@string/clock_use_single_line_title"
