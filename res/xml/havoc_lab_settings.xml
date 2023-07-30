@@ -83,6 +83,12 @@
             android:summary="@string/reticker_landscape_only_summary"
             android:defaultValue="false" />
 
+    <com.havoc.support.preferences.SystemSettingSwitchPreference    
+            android:key="status_bar_brightness_control"
+            android:title="@string/status_bar_toggle_brightness"
+            android:summary="@string/status_bar_toggle_brightness_summary"
+            android:defaultValue="false"/>
+
     <com.havoc.support.preferences.GlobalSettingSwitchPreference
             android:key="pie_animation_style"
             android:title="@string/pie_animation_style_title"
