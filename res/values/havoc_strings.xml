@@ -313,4 +313,11 @@
     <!-- Show clipboard overlay -->
     <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
     <string name="show_clipboard_overlay_summary">Show an overlay in the left bottom corner of the screen when something is copied to the clipboard</string>
+
+    <!-- Volume TextView -->
+    <string name="volume_persen_switch_title">Volume Percentage</string>
+    <string name="volume_persen_switch_summary">show volume panel percentage</string>
+    <string name="volume_persen_style_title">Percentage Location</string>
+    <string name="volume_persen_style_top">Top</string>
+    <string name="volume_persen_style_bottom">Bottom</string>
 </resources>
