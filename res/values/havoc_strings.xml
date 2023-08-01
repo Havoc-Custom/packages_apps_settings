@@ -231,9 +231,9 @@
     <string name="navigation_bar_ime_space_summary">Hide IME button space below keyboard</string>
     
         <!-- Havoc lab -->
-    <string name="havoc_lab_title">Extended lab</string>
-    <string name="havoc_lab_footer">Havoc Extended Exclusives</string>
-    <string name="havoc_lab_summary">Some Extra features</string>
+    <string name="havoc_lab_title">The Black Hole</string>
+    <string name="havoc_lab_footer">"In the heart of darkness, a Black Hole's gravitational embrace holds secrets of the cosmos."</string>
+    <string name="havoc_lab_summary">Where Light Vanishes, Mysteries Awaken!</string>
     
     <!-- Wi-Fi Standard icon -->
     <string name="show_wifi_standard_icon_title">Show Wi-Fi type icon</string>
