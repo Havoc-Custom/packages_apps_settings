@@ -21,6 +21,12 @@
     android:title="@string/firmware_version"
     settings:keywords="@string/keywords_android_version">
 
+    <!-- Havoc-OS Logo -->
+    <com.android.settingslib.widget.LayoutPreference
+        android:key="havoc_header"
+        android:order="-3"
+        android:layout="@layout/havoc_header_preference"/>
+
     <!-- Device name -->
     <Preference
         android:key="about_device_name"
