@@ -155,4 +155,10 @@
             android:dependency="VOLUME_TEXTVIEW"                                                     
             android:entryValues="@array/volume_persen_style_values"
             android:defaultValue="0" />
+
+    <com.havoc.support.preferences.SystemSettingSwitchPreference
+            android:title="Brightness Percentage"
+            android:key="ANCIENT_TEXT_BRIGHTNESS"
+            android:summary="show hide brightness percentage text"
+            android:defaultValue="false" />
 </PreferenceScreen>
