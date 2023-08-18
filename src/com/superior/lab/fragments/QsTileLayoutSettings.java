@@ -34,7 +34,7 @@ import com.android.internal.util.systemui.qs.QSLayoutUtils;
 import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 
-import com.android.internal.util.superior.ThemeUtils;
+import com.android.internal.util.custom.ThemeUtils;
 
 import com.android.settingslib.widget.LayoutPreference;
 
@@ -173,7 +173,7 @@ public class QsTileLayoutSettings extends SettingsPreferenceFragment
 
     @Override
     public int getMetricsCategory() {
-        return MetricsProto.MetricsEvent.SUPERIOR;
+        return MetricsProto.MetricsEvent.HAVOC_SETTINGS;
     }
     
     private CustomSettingsObserver mCustomSettingsObserver = new CustomSettingsObserver(mHandler);
@@ -223,14 +223,6 @@ public class QsTileLayoutSettings extends SettingsPreferenceFragment
         mThemeUtils.setOverlayEnabled(category, overlayName, overlayThemeTarget);
     }
 
-<<<<<<< HEAD:src/com/superior/lab/fragments/QsLayoutSettings.java
-    @Override
-    public int getMetricsCategory() {
-        return MetricsProto.MetricsEvent.HAVOC_SETTINGS;
-    }
-
-=======
->>>>>>> 50592d28c9 (SuperiorLab: Refactor qs tiles layout fragment):src/com/superior/lab/fragments/QsTileLayoutSettings.java
     private void initPreference() {
         final int index_qs = Settings.System.getIntForUser(getContentResolver(),
             Settings.System.QS_LAYOUT, 42, UserHandle.USER_CURRENT);
