@@ -34,7 +34,7 @@
        	android:key="qs_tile_layout"
        	android:title="@string/qs_tile_layout_title"
        	android:summary="@string/qs_tile_layout_summary"
-       	android:fragment="com.superior.lab.fragments.QsTileLayoutSettings" />
+       	android:fragment="com.havoc.settings.laboratory.QsTileLayoutSettings" />
 
     <Preference
         android:key="hidden_apps"

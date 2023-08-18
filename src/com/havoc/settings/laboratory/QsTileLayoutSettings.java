@@ -12,7 +12,7 @@
  * permissions and limitations under the License.
  */
 
-package com.superior.lab.fragments;
+package com.havoc.settings.laboratory;
 
 import android.database.ContentObserver;
 import android.content.ContentResolver;
